@@ -1,0 +1,5 @@
+shiny
+plotnine
+palmerpenguins
+pandas
+numpy
