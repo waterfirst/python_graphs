@@ -1,9 +1,4 @@
-아래는 GitHub용 **README.md** 예시입니다.  
-R Shiny 코드를 Python Shiny로 변환한 프로젝트(대시보드/시각화/펭귄·주택·넷플릭스 데이터 등)로 가정하여, 설치법, 사용법, 목적, 기능을 포함했습니다.
 
-***
-
-```markdown
 # ggplot2 Visualization Gallery (Python Shiny 버전)
 
 이 프로젝트는 R의 Shiny 및 ggplot2 기반 데이터 시각화 대시보드를 Python Shiny와 plotnine으로 변환한 예시입니다.  
@@ -75,8 +70,6 @@ app = App(app_ui, server)
 ## 라이선스
 
 MIT License
-```
 
 
-영문 README 필요 시 영어로 변환도 가능합니다.
 
